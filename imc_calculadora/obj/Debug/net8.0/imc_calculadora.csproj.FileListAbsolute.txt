@@ -1,0 +1,14 @@
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\bin\Debug\net8.0\imc_calculadora.exe
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\bin\Debug\net8.0\imc_calculadora.deps.json
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\bin\Debug\net8.0\imc_calculadora.runtimeconfig.json
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\bin\Debug\net8.0\imc_calculadora.dll
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\bin\Debug\net8.0\imc_calculadora.pdb
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\imc_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\imc_calculadora.AssemblyInfoInputs.cache
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\imc_calculadora.AssemblyInfo.cs
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\imc_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\imc_calculadora.dll
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\refint\imc_calculadora.dll
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\imc_calculadora.pdb
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\imc_calculadora.genruntimeconfig.cache
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\imc calculadora\imc_calculadora\obj\Debug\net8.0\ref\imc_calculadora.dll
