@@ -1,0 +1,14 @@
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\bin\Debug\net8.0\signozodiacal.exe
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\bin\Debug\net8.0\signozodiacal.deps.json
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\bin\Debug\net8.0\signozodiacal.runtimeconfig.json
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\bin\Debug\net8.0\signozodiacal.dll
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\bin\Debug\net8.0\signozodiacal.pdb
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\signozodiacal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\signozodiacal.AssemblyInfoInputs.cache
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\signozodiacal.AssemblyInfo.cs
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\signozodiacal.csproj.CoreCompileInputs.cache
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\signozodiacal.dll
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\refint\signozodiacal.dll
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\signozodiacal.pdb
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\signozodiacal.genruntimeconfig.cache
+C:\Users\RuizDomingoII\Documents\Prueba practica c# 1\signo zodiacal\signozodiacal\obj\Debug\net8.0\ref\signozodiacal.dll
